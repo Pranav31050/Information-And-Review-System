@@ -89,12 +89,12 @@ html {
     <div class="card">
       <img src="pranav.png" alt="Pranav" style="width:40%">
       <div class="container">
-        <h2>Pranav Baskota</h2>
+        <h2>Pranav B.</h2>
         <p class="title">Developer</p>
-        <p>pepsicola,Katmandu</p>
+        <p>Katmandu</p>
        
-        <p>Email:pranavb019360@gmail.com</p>
-        <p>Phone Number:982312993</p>
+        <p>Email:pranavb@gmail.com</p>
+        <p>Phone Number:00000000</p>
         
       </div>
     </div>
@@ -104,12 +104,12 @@ html {
     <div class="card">
       <img src="roshan.jpg" alt="Roshan" style="width:40%">
       <div class="container">
-      <h2>Roshan Pariyar</h2>
+      <h2>Roshan P</h2>
         <p class="title">Developer</p>
-        <p>Mulpani,Katmandu</p>
+        <p>Katmandu</p>
        
-        <p>Email:roshanp019367@gmail.com</p>
-        <p>Phone Number:9818710424</p>
+        <p>Email:roshanp@gmail.com</p>
+        <p>Phone Number:00000000</p>
       </div>
     </div>
   </div>
@@ -118,12 +118,12 @@ html {
     <div class="card">
       <img src="saiyed.jpg" alt="Saiyed" style="width:40%">
       <div class="container">
-      <h2>Saiyed Ali Halwai</h2>
+      <h2>Saiyed A</h2>
         <p class="title">Developer</p>
-        <p>Baneshwor,Katmandu</p>
+        <p>Katmandu</p>
        
-        <p>Email:saiyeda019369@gmail.com</p>
-        <p>Phone Number:98312993</p>
+        <p>Email:saiyed@gmail.com</p>
+        <p>Phone Number:00000000</p>
       </div>
       </div>
     </div>
